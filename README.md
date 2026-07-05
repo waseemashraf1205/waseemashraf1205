@@ -51,5 +51,5 @@ I specialize in transforming complex business workflows into high-performance we
 - 🌐 [Personal Portfolio](https://waseemashrafportfolio.netlify.app/)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waseemashraf1205&show_icons=true&theme=tokyonight" alt="Waseem's GitHub Stats" />
+  <img src="https://github-readme-stats.web.app/api?username=waseemashraf1205&show_icons=true&theme=tokyonight" alt="Waseem's GitHub Stats" />
 </p>
