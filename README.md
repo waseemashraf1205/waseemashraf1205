@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Waseem Ashraf 👋
 
-<!--
-**waseemashraf1205/waseemashraf1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Frontend Web Developer & Chrome Extension Engineer
+I specialize in building high-performance web user interfaces, custom browser extensions, and web automation tools that optimize business workflows and save human hours.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Toolkit & Frameworks
+- **Languages:** JavaScript (ES6+), HTML5, CSS3
+- **Backend & DB:** Firebase (Authentication, Firestore, Hosting), NPM Stack
+- **Specializations:** Chrome Extension APIs, Web Scraping, UI/UX Implementation, DOM Manipulation
+
+---
+
+### 🚀 Current Projects & Work
+- 🛠️ Developing **HireGuard AI** - A smart recruitment automation dashboard and extension for modern recruiters.
+- 🌐 Crafting dynamic client websites with advanced authentication and custom backend flows.
+
+---
+
+### 🤝 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/waseemashraf1205/) 
+- 🌐 [Personal Portfolio](https://waseemashrafportfolio.netlify.app/)
