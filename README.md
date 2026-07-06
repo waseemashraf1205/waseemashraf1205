@@ -21,7 +21,7 @@ I specialize in transforming complex business workflows into high-performance we
 
 ### 🚀 Featured Open-Source & Client Work
 
-#### 🛡️ [HireGuard AI](https://github.com/waseemashraf1205/hireguard.ai) — Chrome Extension & Side Panel
+#### 🛡️ [HireGuard AI](https://github.com/waseemashraf1205/hireguard.ai) — Chrome Extension
 *An AI-powered recruitment automation dashboard built natively inside a Chrome Extension to help modern recruiters screen candidates instantly.*
 - **Key Features:** LinkedIn DOM scraping, native Chrome Side Panel implementation, automated background service-worker storage sync, and custom UI components.
 - **Tech Stack:** JavaScript, Chrome Extension API v3, CSS3, Local Storage API.
